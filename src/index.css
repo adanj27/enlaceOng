@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-blue {
+  background-color: #3b5998 !important;
+  transition: background-color 0.3s ease;
+}
+
+.bg-blue:hover {
+  background-color: #4f70b6 !important; /* Cambiar el color de fondo cuando el cursor esté sobre el elemento */
+}

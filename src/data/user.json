@@ -1,0 +1,61 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "isLoggin": true,
+      "userName": "Nelson",
+      "name": "Adam",
+      "lastName": "Jimenez",
+      "email": "adam@gmail.com",
+      "password": "12345678",
+      "avatar": "adadasd",
+      "city": "",
+      "country": "",
+      "workmodality": "",
+      "areas": "",
+      "postulaciones": [],
+      "habilidades": [],
+      "puestoTranajo": ""
+    },
+    {
+      "id": "jLU3gj4",
+      "isLoggin": false,
+      "userName": "ismaelrosas",
+      "name": "ismael",
+      "lastName": "rosas",
+      "email": "ismaelnelsonrosas@gmail.com",
+      "password": "12345678",
+      "avatar": "https://estaticos-cdn.sport.es/clip/91f56f12-8b5d-442a-9e99-828a800b3c9e_media-libre-aspect-ratio_default_0.jpg",
+      "city": "Mendoza",
+      "country": "",
+      "workmodality": " Hibrido, Remoto",
+      "disponibilidad": "",
+      "areas": "Full Stack Development",
+      "postulaciones": [],
+      "habilidades": "HTML|CSS|JS|React|Node.js",
+      "ubicacionTrabajo": "",
+      "puestoTrabajo": "",
+      "aboutme": "mi nombre e sismael"
+    },
+    {
+      "id": "gz4B1lq",
+      "isLoggin": false,
+      "userName": "eliasrosas",
+      "name": "elias",
+      "lastName": "rpsas",
+      "email": "elias@gmail.com",
+      "password": "12345678",
+      "avatar": "        asdasd",
+      "city": "Mendoza",
+      "country": "",
+      "workmodality": " Hibrido, Remoto",
+      "disponibilidad": "",
+      "areas": "Full Stack Development",
+      "postulaciones": [],
+      "habilidades": "HTML|CSS|JS|React|Node.js",
+      "ubicacionTrabajo": "",
+      "puestoTrabajo": "",
+      "aboutme": "asdasdasd"
+    }
+  ]
+}

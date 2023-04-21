@@ -1,0 +1,120 @@
+{
+  "ong": [
+    {
+      "id": "1",
+      "img": "https://www.amnesty.org/es/wp-content/uploads/sites/4/2021/04/amnestyp.png",
+      "name": "Amnistía Internacional",
+      "job_position": "Organización de derechos humanos",
+      "categories": ["Marketing"],
+      "area": "Marketing Digital",
+      "title": "Especialista en Marketing Digital",
+      "tasks": "Planificación y ejecución de estrategias de marketing digital para promover las actividades de la organización en redes sociales, email marketing, publicidad en línea, etc.",
+      "requirements": [
+        "Experiencia previa en marketing digital",
+        "Conocimientos en redes sociales y publicidad en línea",
+        "Habilidades en análisis de datos y métricas de marketing"
+      ],
+      "location": "Ciudad de Buenos Aires, Argentina",
+      "hours": "Tiempo completo",
+      "certificate": "Certificación en Marketing Digital",
+      "duration": "Contrato a plazo fijo de 1 año",
+      "modality": "Presencial",
+      "published": "Inicio: 1 de julio de 2023",
+      "comment": "Excelente oportunidad para utilizar habilidades de marketing en apoyo a los derechos humanos.",
+      "about": "Amnistía Internacional es una organización no gubernamental que trabaja en la promoción y defensa de los derechos humanos en todo el mundo, con enfoque en la protección de los derechos civiles y políticos, así como los derechos económicos, sociales y culturales. Con sede en Buenos Aires, Argentina, Amnistía Internacional tiene presencia en más de 150 países y cuenta con un equipo diverso y comprometido de profesionales en el campo de los derechos humanos."
+    },
+    {
+      "id": "2",
+      "img": "https://indice.memoriaabierta.org.ar/assets/files//42/fa/42fa5798a355bdd1c834def641ddbf6f.jpeg",
+      "name": "Asamblea Permanente por los Derechos Humanos",
+      "job_position": "Organización de derechos humanos",
+      "categories": ["Administración"],
+      "area": "Administración y Gestión",
+      "title": "Coordinador/a de Administración",
+      "tasks": "Gestión administrativa y financiera de la organización, incluyendo manejo de presupuesto, reportes financieros, gestión de personal y recursos, entre otros.",
+      "requirements": [
+        "Experiencia en administración y finanzas",
+        "Conocimientos en gestión de recursos humanos",
+        "Habilidades en manejo de presupuesto y reportes financieros"
+      ],
+      "location": "Córdoba, Argentina",
+      "hours": "Tiempo completo",
+      "certificate": "Título universitario en Administración de Empresas o afines",
+      "duration": "Contrato indefinido",
+      "modality": "Presencial",
+      "published": 12649952000,
+      "comment": "Oportunidad para contribuir a la defensa de los derechos humanos desde el ámbito administrativo.",
+      "about": "La Asamblea Permanente por los Derechos Humanos es una organización argentina dedicada a la promoción y defensa de los derechos humanos en el país, con un enfoque en la justicia social, igualdad y no discriminación. Con sede en Córdoba, Argentina, la organización trabaja en diversas áreas, incluyendo la defensa de los derechos civiles y políticos, los derechos económicos, sociales y culturales, y la promoción de la participación ciudadana en la toma de decisiones."
+    },
+    {
+      "id": "3",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/34/EAAF.jpg",
+      "name": "Equipo Argentino de Antropología Forense",
+      "job_position": "Organización científica",
+      "categories": ["Tecnología"],
+      "area": "Tecnología forense",
+      "title": "Analista Forense",
+      "tasks": "Análisis e interpretación de evidencia forense en casos de desapariciones forzadas, exhumaciones y procesos de identificación de restos humanos utilizando herramientas tecnológicas especializadas.",
+      "requirements": [
+        "Experiencia previa en análisis forense",
+        "Conocimientos en antropología forense y técnicas de identificación",
+        "Habilidades en manejo de software forense"
+      ],
+      "location": "Buenos Aires, Argentina",
+      "hours": "Tiempo completo",
+      "certificate": "Certificación en Tecnología Forense",
+      "duration": "Contrato a plazo fijo de 1 año",
+      "modality": "Presencial",
+      "published": 1676112000,
+      "comment": "Una oportunidad única para aplicar tecnología forense en la investigación de casos de relevancia internacional.",
+      "about": "El Equipo Argentino de Antropología Forense (EAAF) es una organización científica con sede en Buenos Aires, Argentina, que se dedica a la investigación y aplicación de técnicas forenses en casos de desapariciones forzadas, exhumaciones y procesos de identificación de restos humanos. El EAAF trabaja en estrecha colaboración con organismos nacionales e internacionales para contribuir a la verdad, la justicia y la reparación en casos de violaciones a los derechos humanos en Argentina y en otros países."
+    },
+
+    {
+      "id": "4",
+      "img": "https://www.ceprodh.org.ar/squelettes/assets/images/CePhoDH_final_negro.png",
+      "name": "Centro de Profesionales por los Derechos Humanos",
+      "job_position": "Organización de derechos humanos",
+      "categories": ["Administración"],
+      "area": "Gestión de proyectos",
+      "title": "Coordinador de Proyectos",
+      "tasks": "Coordinación y gestión de proyectos en temas de derechos humanos, incluyendo planificación, implementación, seguimiento y evaluación de actividades, manejo de presupuesto y reporte de resultados.",
+      "requirements": [
+        "Experiencia en gestión de proyectos sociales",
+        "Conocimientos en derechos humanos y normativa internacional",
+        "Habilidades en planificación y organización"
+      ],
+      "location": "Ciudad de Buenos Aires, Argentina",
+      "hours": "Tiempo completo",
+      "certificate": "Certificación en Gestión de Proyectos",
+      "duration": "Contrato a plazo fijo de 2 años",
+      "modality": "Presencial",
+      "published": 1677744000,
+      "comment": "Una oportunidad para contribuir activamente en la defensa y promoción de los derechos humanos en Argentina.",
+      "about": "El Centro de Profesionales por los Derechos Humanos (CeProDH) es una organización de derechos humanos con sede en la Ciudad de Buenos Aires, Argentina. El CeProDH está compuesto por un grupo de profesionales de diversas disciplinas que trabajan en la promoción y defensa de los derechos humanos en el país, incluyendo temas como la justicia social, la no discriminación, la igualdad de género y la memoria, verdad y justicia. El CeProDH lleva a cabo proyectos y programas para contribuir a la protección y promoción de los derechos humanos en diferentes áreas y sectores de la sociedad."
+    },
+    {
+      "id": "5",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSofSHQrmtoyr0bj-SWPleaEwgT8ejaPT3OBUpuGPnEcC2-v4_y3749E2RKqZVzEGQLukk&usqp=CAU",
+      "name": "SOS Discriminación Asociación Internacional",
+      "job_position": "Organización de derechos humanos",
+      "categories": ["Marketing"],
+      "area": "Comunicación y sensibilización",
+      "title": "Especialista en Comunicación y Sensibilización",
+      "tasks": "Desarrollo e implementación de estrategias de comunicación y sensibilización en temas de discriminación y derechos humanos, gestión de campañas de concientización, elaboración de materiales educativos y promoción de la igualdad y no discriminación en distintos contextos y plataformas.",
+      "requirements": [
+        "Experiencia previa en comunicación y sensibilización en temas de discriminación",
+        "Conocimientos en derechos humanos y diversidad",
+        "Habilidades en diseño y redacción de materiales de comunicación"
+      ],
+      "location": "Barcelona, España",
+      "hours": "Tiempo completo",
+      "certificate": "Certificación en Comunicación y Sensibilización en Derechos Humanos",
+      "duration": "Contrato indefinido",
+      "modality": "Presencial",
+      "published": 1675190400,
+      "comment": "Una oportunidad para trabajar en la promoción de la igualdad y la lucha contra la discriminación en un contexto internacional.",
+      "about": "SOS Discriminación Asociación Internacional es una organización dedicada a la promoción de la igualdad y la lucha contra la discriminación en distintos ámbitos, incluyendo la discriminación por raza, género, religión, orientación sexual, discapacidad y otros motivos. Con sede en Barcelona, España, SOS Discriminación trabaja en la sensibilización, educación y promoción de los derechos humanos en un contexto global, con el objetivo de combatir la discriminación en todas sus formas y contribuir a la construcción de sociedades más inclusivas y equitativas."
+    }
+  ]
+}

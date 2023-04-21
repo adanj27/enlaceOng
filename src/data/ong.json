@@ -1,0 +1,84 @@
+{
+  "ong": [
+    {
+      "id": "1",
+      "name": "Amnistía Internacional",
+      "img": "https://www.amnesty.org/es/wp-content/uploads/sites/4/2021/04/amnestyp.png",
+      "about": "Amnistía Internacional es una organización no gubernamental que trabaja en la promoción y defensa de los derechos humanos en todo el mundo, con enfoque en la protección de los derechos civiles y políticos, así como los derechos económicos, sociales y culturales. Con sede en Buenos Aires, Argentina, Amnistía Internacional tiene presencia en más de 150 países y cuenta con un equipo diverso y comprometido de profesionales en el campo de los derechos humanos.",
+      "email": "contacto@defensaanimal.org",
+      "website": "https://defensaanimal.org"
+    },
+    {
+      "id": "2",
+      "img": "https://indice.memoriaabierta.org.ar/assets/files//42/fa/42fa5798a355bdd1c834def641ddbf6f.jpeg",
+      "name": "Asamblea Permanente por los Derechos Humanos",
+      "about": "La Asamblea Permanente por los Derechos Humanos es una organización argentina dedicada a la promoción y defensa de los derechos humanos en el país, con un enfoque en la justicia social, igualdad y no discriminación. Con sede en Córdoba, Argentina, la organización trabaja en diversas áreas, incluyendo la defensa de los derechos civiles y políticos, los derechos económicos, sociales y culturales, y la promoción de la participación ciudadana en la toma de decisiones.",
+      "email": "contacto@defensaanimal.org",
+      "website": "https://defensaanimal.org"
+    },
+    {
+      "id": "3",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/34/EAAF.jpg",
+      "name": "Equipo Argentino de Antropología Forense",
+      "about": "El Equipo Argentino de Antropología Forense (EAAF) es una organización científica con sede en Buenos Aires, Argentina, que se dedica a la investigación y aplicación de técnicas forenses en casos de desapariciones forzadas, exhumaciones y procesos de identificación de restos humanos. El EAAF trabaja en estrecha colaboración con organismos nacionales e internacionales para contribuir a la verdad, la justicia y la reparación en casos de violaciones a los derechos humanos en Argentina y en otros países.",
+      "email": "contacto@defensaanimal.org",
+      "website": "https://defensaanimal.org"
+    },
+    {
+      "id": "4",
+      "img": "https://www.ceprodh.org.ar/squelettes/assets/images/CePhoDH_final_negro.png",
+      "name": "Centro de Profesionales por los Derechos Humanos",
+      "about": "El Centro de Profesionales por los Derechos Humanos (CeProDH) es una organización de derechos humanos con sede en la Ciudad de Buenos Aires, Argentina. El CeProDH está compuesto por un grupo de profesionales de diversas disciplinas que trabajan en la promoción y defensa de los derechos humanos en el país, incluyendo temas como la justicia social, la no discriminación, la igualdad de género y la memoria, verdad y justicia. El CeProDH lleva a cabo proyectos y programas para contribuir a la protección y promoción de los derechos humanos en diferentes áreas y sectores de la sociedad.",
+      "email": "contacto@defensaanimal.org",
+      "website": "https://defensaanimal.org"
+    },
+    {
+      "id": "5",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSofSHQrmtoyr0bj-SWPleaEwgT8ejaPT3OBUpuGPnEcC2-v4_y3749E2RKqZVzEGQLukk&usqp=CAU",
+      "name": "SOS Discriminación Asociación Internacional",
+      "about": "SOS Discriminación Asociación Internacional es una organización dedicada a la promoción de la igualdad y la lucha contra la discriminación en distintos ámbitos, incluyendo la discriminación por raza, género, religión, orientación sexual, discapacidad y otros motivos. Con sede en Barcelona, España, SOS Discriminación trabaja en la sensibilización, educación y promoción de los derechos humanos en un contexto global, con el objetivo de combatir la discriminación en todas sus formas y contribuir a la construcción de sociedades más inclusivas y equitativas.",
+      "email": "contacto@defensaanimal.org",
+      "website": "https://defensaanimal.org"
+    },
+    {
+      "id": "6",
+      "name": "Organización para la Defensa de los Derechos Animales",
+      "img": "https://picsum.photos/id/237/200/300",
+      "about": "Somos una organización que lucha por el bienestar de los animales y la promoción de su protección y cuidado en todo el mundo.",
+      "email": "contacto@defensaanimal.org",
+      "website": "https://defensaanimal.org"
+    },
+    {
+      "id": "7",
+      "name": "Asociación de Jóvenes Emprendedores",
+      "image": "https://picsum.photos/id/1025/200/300",
+      "about": "Somos una organización que apoya y promueve el espíritu emprendedor y la innovación entre jóvenes de todo el mundo.",
+      "email": "contacto@jovenesemprendedores.org",
+      "website": "https://jovenesemprendedores.org"
+    },
+    {
+      "id": "8",
+      "name": "Fundación para la Educación de Niños y Jóvenes en África",
+      "image": "https://picsum.photos/id/1002/200/300",
+      "about": "Somos una organización que busca mejorar la educación y las oportunidades de niños y jóvenes en África para promover un futuro mejor para todos.",
+      "email": "contacto@educafrica.org",
+      "website": "https://educafrica.org"
+    },
+    {
+      "id": "9",
+      "name": "Asociación para el Desarrollo Sostenible",
+      "image": "https://picsum.photos/id/1068/200/300",
+      "about": "Somos una organización que trabaja para promover el desarrollo sostenible y la protección del medio ambiente en todo el mundo.",
+      "email": "contacto@desarrollosostenible.org",
+      "website": "https://desarrollosostenible.org"
+    },
+    {
+      "id": "10",
+      "name": "Organización Internacional de Ayuda Humanitaria",
+      "image": "https://picsum.photos/id/1079/200/300",
+      "about": "Somos una organización que brinda asistencia humanitaria a personas afectadas por conflictos armados, desastres naturales y otras situaciones de crisis en todo el mundo.",
+      "email": "contacto@ayudahumanitaria.org",
+      "website": "https://ayudahumanitaria.org"
+    }
+  ]
+}
