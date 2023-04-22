@@ -1,15 +1,15 @@
-import React from 'react';
+import React, {useContext} from 'react';
 import { useFormik } from 'formik';
 import VisibilityOffIcon from '@mui/icons-material/VisibilityOff';
 import VisibilityIcon from '@mui/icons-material/Visibility';
 import * as Yup from 'yup';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import Input from '../../../components/Input';
 import Card from '../../../components/Card';
 import Button from '../../../components/Button';
 import Layout from '../../../components/layout/Layout';
-import { dbmongoApi } from '../../../api/apiMongo';
-import { User, createUser } from '../../../controllers/controllers';
+import { User, createUser, loginWithEmailAndPass } from '../../../controllers/controllers';
+import { userContext } from '../../../Context/UserProvider';
 
 export const VolunteerRegisterPage = () => {
   const [showPassword, setShowPassword] = React.useState(false);
@@ -42,7 +42,11 @@ export const VolunteerRegisterPage = () => {
     },
   });
 
+  const navigate = useNavigate();
+  const { user, setuser } = useContext(userContext);
+
   const startRegister = async () => {
+   
     try {
       const newUser: User = {
         id: '',
@@ -65,6 +69,18 @@ export const VolunteerRegisterPage = () => {
         aboutme: '',
       };
       await createUser(newUser);
+      const user = await loginWithEmailAndPass(values.email, values.password);
+
+      console.log(newUser)
+      
+
+      setuser(user);
+      localStorage.setItem('user', JSON.stringify(user));
+      setTimeout(() => {
+        console.log(user);
+
+        navigate('/');
+      }, 1000);
     } catch (error) {
       console.log('Hubo un error al crear usuario');
     }

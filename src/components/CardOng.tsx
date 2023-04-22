@@ -9,9 +9,9 @@ export default function CardOng() {
   const actuales = db?.filter((post: OngInterface) => post.published === '17/4/2023');
 
   useEffect(() => {
-    axios('../src/data/post.json').then((data) => {
+    axios('https://jsonserverong.onrender.com/post').then((data) => {
       console.log(data.data.post);
-      setdb(data.data.post);
+      setdb(data.data);
     });
   }, []);
 

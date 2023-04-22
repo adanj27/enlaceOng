@@ -22,9 +22,9 @@ export default function Busqueda() {
   const [stateModa, setstateModa] = useState(false);
 
   useEffect(() => {
-    axios('src/data/post.json').then((data) => {
+    axios('https://jsonserverong.onrender.com/post').then((data) => {
       console.log(data.data.post);
-      setdb(data.data.post);
+      setdb(data.data);
     });
 
     if (tipo) {
