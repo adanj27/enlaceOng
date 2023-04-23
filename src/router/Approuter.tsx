@@ -35,7 +35,7 @@ function Approuter() {
   return (
     <Routes>
       {/* Ruta de acceso al publico */}
-      <Route path="/home" element={<HomePage />} />
+      <Route path="/" element={<HomePage />} />
       <Route path="/aboutUs" element={<AboutUs />} />
       <Route path="/offert/:id" element={<Offert />} />
       <Route path="/organization/:id" element={<OrganizationPage />} />

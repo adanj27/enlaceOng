@@ -40,7 +40,7 @@ export const VolunteerLoginPage = () => {
       setTimeout(() => {
         // console.log(user);
 
-        navigate('/profile');
+        navigate('/');
       }, 1000);
       console.log('Usuario desde componente login', u);
     } catch (error) {
