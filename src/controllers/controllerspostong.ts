@@ -8,7 +8,7 @@ export async function getPost(tipo: string) {
   console.log(tipo);
 
   try {
-    const response = await axios.get(`http://localhost:3003/post/`);
+    const response = await axios.get(`https://jsonserverong.onrender.com/post`);
     const data: [] = response.data;
     const ongtipo = data.filter(
       (post: OngInterface) => post.categories.toLowerCase() === tipo.toLowerCase(),
