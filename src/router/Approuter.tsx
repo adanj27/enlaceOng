@@ -60,7 +60,7 @@ function Approuter() {
       )}
 
       {/* Ruta de protección, en caso de que el usuario quiera ir a una dirección aleatoria */}
-      <Route path="/*" element={<Navigate to="/home" />} />
+      <Route path="/*" element={<Navigate to="/" />} />
     </Routes>
   );
 }

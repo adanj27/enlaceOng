@@ -72,7 +72,7 @@ export function Menu({ isOpen, toggle }: MenuProps) {
           </div>
           <div className="mt-20 flex justify-between lg:pr-16 pr-4">
             <div className="flex">
-              <Link to="/home">
+              <Link to="/">
                 <img className="w-10 mr-4" src={Logo} alt="LOGO" />
               </Link>
               <span className="text-slate-100 w-32">Enlace ONG</span>

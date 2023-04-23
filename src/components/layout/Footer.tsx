@@ -61,7 +61,7 @@ function Footer() {
       <div className="bg-white w-full flex justify-evenly py-3 px-5">
         <div className=" hidden md:flex md:items-center">
           <img className="w-8" src={Logo} alt="logo" />
-          <Link to="/home" className="text-sm mx-5 text-gray-500 ">
+          <Link to="/" className="text-sm mx-5 text-gray-500 ">
             ENLACE ONG
           </Link>
           <span className="text-sm text-gray-500">Copyright © Enlace - ONG 2023</span>

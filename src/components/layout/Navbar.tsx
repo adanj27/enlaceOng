@@ -73,7 +73,7 @@ export function Navbar() {
         <div className="flex justify-between h-14">
           <div className="flex-shrink-0 flex items-center">
             <Menu isOpen={isMenuOpen} toggle={toggleMenu} />
-            <Link to="/home" className="md:block">
+            <Link to="/" className="md:block">
               <img className="w-10" src={Logo} alt="logo" />
             </Link>
           </div>
